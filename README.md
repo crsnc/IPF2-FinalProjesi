@@ -73,3 +73,4 @@ Bu proje, İnternet Programcılığı II dersinin final ödevi kapsamında geli�
 | `DELETE` | `/api/kayitsil/{kayitId}` | Ürün–kategori kaydını siler |
 
 ---
+.
