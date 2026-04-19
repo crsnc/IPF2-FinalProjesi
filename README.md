@@ -73,21 +73,3 @@ Bu proje, İnternet Programcılığı II dersinin final ödevi kapsamında geli�
 | `DELETE` | `/api/kayitsil/{kayitId}` | Ürün–kategori kaydını siler |
 
 ---
-
-## 🚀 Kurulum
-
-### Backend (IPF2)
-
-1. `IPF2/IPF2.sln` dosyasını Visual Studio ile açın.
-2. `Web.config` içindeki bağlantı dizesini kendi SQL Server ortamınıza göre düzenleyin.
-3. Projeyi derleyip çalıştırın (`F5` veya **IIS Express**).
-
-### Frontend (IP2Final)
-
-```bash
-cd IP2Final
-npm install
-ng serve
-```
-
-Uygulama varsayılan olarak `http://localhost:4200` adresinde çalışır.
